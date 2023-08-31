@@ -4,3 +4,7 @@ This repository contains homemade scripts utilized for project pyresp_gen,doi:ht
 + gjf\_gen: given a dozen of `pdb` and gaussian `log` file and convert them into gjf file, you can specify methods and basis set you want in script `utils/dump_opt`
 
 + 345\_cmps: scripts utilized for 3 methods, namely, `RESP`, `pGM-ind`, and `pGM-perm` comparision. `bash` scripts are all for esp generation the core scripts are stored in file `pyresp_analyze.py` and `pyresp_utilies.py`
+
++ espdiff: `calc_diff.py` Calculating the difference between any two paired methods or basis sets; `calc_diff_ref.py` Calculating the difference between queried method or bs and referenced ones.
+
+
