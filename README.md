@@ -7,4 +7,6 @@ This repository contains homemade scripts utilized for project pyresp_gen,doi:ht
 
 + espdiff: `calc_diff.py` Calculating the difference between any two paired methods or basis sets; `calc_diff_ref.py` Calculating the difference between queried method or bs and referenced ones.
 
++ pwt\_optimization: `pGM-ind` related optimization and determination
+
 
