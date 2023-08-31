@@ -13,6 +13,8 @@ This repository contains homemade scripts utilized for project pyresp_gen,doi:ht
 
 + strategies\_cmps: strategies determination
 
++ charge\_extract: extracting charge from gaussian 16 `log` file and dump them into LaTeX format.
+
 
 
 
