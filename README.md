@@ -15,6 +15,6 @@ This repository contains homemade scripts utilized for project pyresp_gen,doi:ht
 
 + charge\_extract: extracting charge from gaussian 16 `log` file and dump them into LaTeX format.
 
-
++ fig\_plots: all figures generated in this project, containg `box plot`, `line point plot`
 
 
